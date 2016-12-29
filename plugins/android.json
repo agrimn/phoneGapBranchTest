@@ -1,0 +1,84 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "io.branch.sdk": {
+            "BRANCH_KEY": "key_live_nfsbZpeF81RNAXxy9NmJ7ipiqwiLkXu9",
+            "URI_SCHEME": "phonegap",
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        },
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.phonegap.testbed"
+        }
+    }
+}
