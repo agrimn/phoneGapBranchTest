@@ -147,13 +147,13 @@
                     ],
                     "/manifest/application": [
                         {
-                            "xml": "<meta-data android:name=\"io.branch.sdk.BranchKey\" android:value=\"key_live_nfsbZpeF81RNAXxy9NmJ7ipiqwiLkXu9\" />",
+                            "xml": "<meta-data android:name=\"io.branch.sdk.BranchKey\" android:value=\"key_live_cegQQXy1lVepxS3VyEO3XacjArdEgVNd\" />",
                             "count": 1
                         }
                     ],
                     "/manifest/application/activity": [
                         {
-                            "xml": "<intent-filter><data android:scheme=\"phonegap\" /><action android:name=\"android.intent.action.VIEW\" /><category android:name=\"android.intent.category.DEFAULT\" /><category android:name=\"android.intent.category.BROWSABLE\" /></intent-filter>",
+                            "xml": "<intent-filter><data android:scheme=\"shortnotice\" /><action android:name=\"android.intent.action.VIEW\" /><category android:name=\"android.intent.category.DEFAULT\" /><category android:name=\"android.intent.category.BROWSABLE\" /></intent-filter>",
                             "count": 1
                         }
                     ]
@@ -239,8 +239,8 @@
             "PACKAGE_NAME": "com.phonegap.testbed"
         },
         "io.branch.sdk": {
-            "BRANCH_KEY": "key_live_nfsbZpeF81RNAXxy9NmJ7ipiqwiLkXu9",
-            "URI_SCHEME": "phonegap",
+            "BRANCH_KEY": "key_live_cegQQXy1lVepxS3VyEO3XacjArdEgVNd",
+            "URI_SCHEME": "shortnotice",
             "PACKAGE_NAME": "com.phonegap.testbed"
         }
     },

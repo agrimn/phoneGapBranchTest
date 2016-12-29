@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.testbed" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.shortnotice.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 
     <branch-config>
-        <host name="fzjo.app.link" scheme="https" />
+        <ios-team-id value="Q5X9PRK4YX"/>
+        <host name="6mo4.app.link" scheme="https" />
+        <host name="6mo4-alternate.app.link" scheme="https" />
     </branch-config>
     <preference name="AndroidLaunchMode" value="singleTask" />
 

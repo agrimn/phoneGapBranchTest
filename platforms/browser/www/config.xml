@@ -6,6 +6,9 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
+    <branch-config>
+        <host name="fzjo.app.link" scheme="https" />
+    </branch-config>
     <name>phonegapTest</name>
     <description>
         Hello World sample application that responds to the deviceready event.
@@ -22,6 +25,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <preference name="android-minSdkVersion" value="15" />
+    <preference name="AndroidLaunchMode" value="singleTask" />
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="15" />
 </widget>
